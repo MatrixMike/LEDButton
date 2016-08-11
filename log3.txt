@@ -1,0 +1,44 @@
+LEDButton.LED lED1 = new LEDButton.LED();
+lED1.on();
+lED1.off();
+lED1.on();
+starting Mike...
+finishing Mike...
+lED1.on();
+LEDButton.LED lED2 = new LEDButton.LED(2);
+lED2.on();
+LEDButton.LED lED3 = new LEDButton.LED(5);
+lED3.on();
+lED3.off();
+lED3.on();
+LEDButton.LED lED4 = new LEDButton.LED(4);
+lED4.on();
+lED4.off();
+LEDButton.LED lED5 = new LEDButton.LED(1);
+lED5.on();
+lED5.off();
+lED5.on();
+LEDButton.LED lED6 = new LEDButton.LED(0);
+lED6.on();
+lED6.off();
+lED2.off();
+lED2.on();
+LEDButton.LED lED7 = new LEDButton.LED(3);
+lED6.off();
+lED6.on();
+lED6.on();
+lED2.on();
+lED1.on();
+lED1.on();
+LEDButton.LED lED8 = new LEDButton.LED(3);
+lED7.on();
+lED7.off();
+lED7.on();
+LEDButton.LED lED9 = new LEDButton.LED(7);
+lED9.on();
+lED9.off();
+starting Mike...
+finishing Mike...
+LEDButton.LED lED1 = new LEDButton.LED(7);
+lED1.on();
+lED1.off();
