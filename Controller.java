@@ -26,7 +26,8 @@ public class Controller implements ButtonListener
     /**
      * Turn the led on.
      * (Exercise 1.2)
-     * 
+     * @author Mike H
+     * @version 1.1
      */
     public void turnLEDOn()
     {
@@ -41,7 +42,8 @@ public class Controller implements ButtonListener
     /**
      * Turn the led off.
      * (Exercise 1.2)
-     * 
+     * @author Mike H
+     * @version 1.1
      */
     public void turnLEDOff()
     {
@@ -52,7 +54,8 @@ public class Controller implements ButtonListener
      * Keep the LED on for a given period of time, then turn it off.
      * @param time the length of the flash in milliseconds (1/1000ths of a second).
      * (Exercise 1.3)
-     * 
+     * @author Mike H
+     * @version 1.1
      */
     public void flash(int time)
     {

@@ -36,7 +36,7 @@ public class LED
 
     /**
      * Connect to an LED attached to the given pin number.
-     * 
+     * @param pin The GPIO pin to use
      */
     public LED(int pin)
     {
@@ -72,7 +72,7 @@ public class LED
 
     /**
      * Checks if the the LED is on.
-     * 
+     * @return status of pin (and thus the LED)
      */
     public boolean isOn()
     {
