@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=LED()
+comment0.text=\n\ Connect\ to\ an\ LED\ attached\ to\ the\ default\ GPIO\ pin\ (6).\n\ \n
+comment1.params=pin
+comment1.target=LED(int)
+comment1.text=\n\ Connect\ to\ an\ LED\ attached\ to\ the\ given\ pin\ number.\n\ @param\ pin\ The\ GPIO\ pin\ to\ use\n
+comment2.params=
+comment2.target=void\ on()
+comment2.text=\n\ Turn\ on\ the\ LED.\n\ \n
+comment3.params=
+comment3.target=void\ off()
+comment3.text=\n\ Turn\ off\ the\ LED.\n\ \n
+comment4.params=
+comment4.target=boolean\ isOn()
+comment4.text=\n\ Checks\ if\ the\ the\ LED\ is\ on.\n\ @return\ status\ of\ pin\ (and\ thus\ the\ LED)\n
+numComments=5

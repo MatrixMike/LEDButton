@@ -1,4 +1,4 @@
-package LEDButton;
+ 
 
 /**
  * A controller for an LED at pin 6 and a Button at pin 7.

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=isPressed
+comment0.target=void\ buttonChanged(boolean)
+comment0.text=\n\ Callback\ method\ invoked\ whenever\ the\ Button\ changes\ state\ (pressed\ or\ released)\n\ @param\ \ \ isPressed\ \ \ The\ state\ of\ the\ button\ after\ the\ change.\n\ \n
+numComments=1

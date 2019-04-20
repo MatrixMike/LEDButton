@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Button()
+comment0.text=\n\ Creates\ a\ Button\ at\ the\ default\ GPIO\ pin\ (7).\n\ \n
+comment1.params=p
+comment1.target=Button(int)
+comment2.params=desiredPin
+comment2.target=com.pi4j.io.gpio.GpioPinDigitalInput\ getProvidedPin(com.pi4j.io.gpio.Pin)
+comment3.params=
+comment3.target=boolean\ isPressed()
+comment3.text=\n\ Checks\ in\ the\ button\ is\ pressed.\n\ \n
+comment4.params=listener
+comment4.target=void\ addListener(ButtonListener)
+comment4.text=\n\ Add\ a\ listener\ to\ this\ button.\n\ \n
+comment5.params=event
+comment5.target=void\ handleGpioPinDigitalStateChangeEvent(com.pi4j.io.gpio.event.GpioPinDigitalStateChangeEvent)
+comment6.params=
+comment6.target=void\ removeAllListeners()
+comment6.text=\n\ Remove\ all\ listeners\ from\ this\ button.\n\ \n
+numComments=7
